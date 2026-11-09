@@ -1,0 +1,10 @@
+{
+  "name": "ProntoPerTe",
+  "short_name": "ProntoPerTe",
+  "description": "Servizi locali a Pitigliano",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f8f6",
+  "theme_color": "#246b53",
+  "icons": []
+}
